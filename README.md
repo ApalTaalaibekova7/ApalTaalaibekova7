@@ -1,4 +1,4 @@
-[![Header](https://github.com/ApalTaalaibekova7/ApalTaalaibekova7/blob/main/assets/Apal%20Taala%C4%B1bekova_fon.png)]()
+[![Header](https://github.com/ApalTaalaibekova7/ApalTaalaibekova7/blob/main/assets/Apal%20Taalaibekova_shirokiyfon.png)]()
 
 ## I'm a junior Frontend developer
 

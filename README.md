@@ -5,7 +5,7 @@
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-powderblue?style=for-the-badge&logo=Typescript)
-![HTML](https://img.shields.io/badge/-Html-red?style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/-Html-salmon?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS)
 ![SASS](https://img.shields.io/badge/-SASS-pink?style=for-the-badge&logo=SASS)
 ![GIT](https://img.shields.io/badge/-GIT-salmon?style=for-the-badge&logo=GIT)
@@ -15,5 +15,6 @@
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react) 
 ![React Router](https://img.shields.io/badge/-ReactRouter-blueviolet?style=for-the-badge&logo=reactrouter)
 ![Redux Toolkit](https://img.shields.io/badge/-ReduxTookit-blue?style=for-the-badge&logo=reduxtoolkit)
+![flex/grid](https://img.shields.io/badge/-Flex/grid-color?style=for-the-badge&logo=flex/grid)
 ![Rest API](https://img.shields.io/badge/-RestAPI-blue?style=for-the-badge&logo=restapi)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux)

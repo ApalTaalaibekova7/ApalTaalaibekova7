@@ -18,4 +18,4 @@
 ![flex/grid](https://img.shields.io/badge/-Flex/grid-color?style=for-the-badge&logo=flex/grid)
 ![Rest API](https://img.shields.io/badge/-RestAPI-blue?style=for-the-badge&logo=restapi)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux)
-![Figma](https://img.shields.io/badge/-Fugma-black?style=for-the-badge&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)

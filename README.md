@@ -1,6 +1,6 @@
 [![Header](https://github.com/ApalTaalaibekova7/ApalTaalaibekova7/blob/main/assets/Apal%20Taalaibekova_shirokiyfon.png)]()
 
-## I'm a junior Frontend developer
+## I'm a Frontend developer
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -18,3 +18,4 @@
 ![flex/grid](https://img.shields.io/badge/-Flex/grid-color?style=for-the-badge&logo=flex/grid)
 ![Rest API](https://img.shields.io/badge/-RestAPI-blue?style=for-the-badge&logo=restapi)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux)
+![Figma](https://img.shields.io/badge/-Fugma-black?style=for-the-badge&logo=figma)

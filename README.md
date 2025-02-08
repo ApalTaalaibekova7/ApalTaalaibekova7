@@ -11,6 +11,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-salmon?style=for-the-badge&logo=GIT)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-violet?style=for-the-badge&logo=Bootstrap)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-powderblue?style=for-the-badge&logo=MaterialUI)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![Swiper](https://img.shields.io/badge/-swiper-blue?style=for-the-badge&logo=swiper)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react) 
 ![React Router](https://img.shields.io/badge/-ReactRouter-blueviolet?style=for-the-badge&logo=reactrouter)
@@ -18,4 +19,4 @@
 ![flex/grid](https://img.shields.io/badge/-Flex/grid-color?style=for-the-badge&logo=flex/grid)
 ![Rest API](https://img.shields.io/badge/-RestAPI-blue?style=for-the-badge&logo=restapi)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux)
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+![NextJS](https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logo=Next.js)

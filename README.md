@@ -1,6 +1,6 @@
 [![Header](https://github.com/ApalTaalaibekova7/ApalTaalaibekova7/blob/main/assets/Apal%20Taalaibekova_shirokiyfon.png)]()
 
-## I'm a Frontend developer
+## Frontend developer
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
